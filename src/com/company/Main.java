@@ -7,7 +7,9 @@ public class Main {
         System.out.println("Hello World");
 	    //Another comment
         System.out.println("Computer Science Rocks!");
+        //Third Comment
         System.out.println("Programming for CS!");
+        //Fourth comment
 	    System.out.println("Added from GitHub!");
     }
 }
