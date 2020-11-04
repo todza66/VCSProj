@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Computer Science Rocks!");
         System.out.println("Programming for CS!");
+	    System.out.println("Added from GitHub!");
     }
 }
